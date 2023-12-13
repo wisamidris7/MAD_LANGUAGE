@@ -1,4 +1,4 @@
-# CERENTAL Language
+# The Mad Language
 
 ## By Wisam Idris
 
